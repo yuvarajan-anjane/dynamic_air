@@ -1,0 +1,5 @@
+{
+"dag_id": "SARO",
+"schedule_interval": "@daily",
+"input": "4659"
+}

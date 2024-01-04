@@ -1,0 +1,8 @@
+dag_id,schedule_interval,input_1,input_2,result
+1,weekly,20,23,
+2,daily,4,45,
+3,weekly,3,67,
+4,daily,8,78,
+5,weekly,7,90,
+6,daily,5,46,
+7,weekly,23,69,

@@ -1,0 +1,5 @@
+{
+"dag_id": "YUVA",
+"schedule_interval": "@daily",
+"input": "11299"
+}
